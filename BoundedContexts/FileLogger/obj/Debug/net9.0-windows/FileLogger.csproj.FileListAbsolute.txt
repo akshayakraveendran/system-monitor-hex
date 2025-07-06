@@ -1,0 +1,17 @@
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0-windows\FileLogger.deps.json
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0-windows\FileLogger.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0-windows\FileLogger.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0-windows\Metrics.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0-windows\Shared.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0-windows\Metrics.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0-windows\Shared.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\FileLogger.csproj.AssemblyReference.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\FileLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\FileLogger.AssemblyInfoInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\FileLogger.AssemblyInfo.cs
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\FileLogger.csproj.CoreCompileInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\FileLogger.csproj.Up2Date
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\FileLogger.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\refint\FileLogger.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\FileLogger.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0-windows\ref\FileLogger.dll

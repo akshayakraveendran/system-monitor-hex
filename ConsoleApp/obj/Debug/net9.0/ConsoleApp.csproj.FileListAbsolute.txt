@@ -1,0 +1,14 @@
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+D:\Project\TestTaskManager\SystemMonitor\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll

@@ -1,0 +1,11 @@
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\bin\Debug\net9.0\ApiSender.deps.json
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\bin\Debug\net9.0\ApiSender.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\bin\Debug\net9.0\ApiSender.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\obj\Debug\net9.0\ApiSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\obj\Debug\net9.0\ApiSender.AssemblyInfoInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\obj\Debug\net9.0\ApiSender.AssemblyInfo.cs
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\obj\Debug\net9.0\ApiSender.csproj.CoreCompileInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\obj\Debug\net9.0\ApiSender.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\obj\Debug\net9.0\refint\ApiSender.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\obj\Debug\net9.0\ApiSender.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\ApiSender\obj\Debug\net9.0\ref\ApiSender.dll
