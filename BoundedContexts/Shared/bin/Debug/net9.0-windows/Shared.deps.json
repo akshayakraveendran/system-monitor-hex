@@ -1,0 +1,134 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Shared/1.0.0": {
+        "dependencies": {
+          "Metrics": "1.0.0"
+        },
+        "runtime": {
+          "Shared.dll": {}
+        }
+      },
+      "Microsoft.VisualBasic/10.3.0": {},
+      "System.Configuration.ConfigurationManager/9.0.5": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "9.0.5",
+          "System.Security.Cryptography.ProtectedData": "9.0.5"
+        },
+        "runtime": {
+          "lib/net9.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.525.21509"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/9.0.5": {
+        "runtime": {
+          "lib/net9.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.525.21509"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net9.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.525.21509"
+          }
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/9.0.5": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "9.0.5"
+        },
+        "runtime": {
+          "lib/net9.0/System.Diagnostics.PerformanceCounter.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.525.21509"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net9.0/System.Diagnostics.PerformanceCounter.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.525.21509"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/9.0.5": {
+        "runtime": {
+          "lib/net9.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.525.21509"
+          }
+        }
+      },
+      "Metrics/1.0.0": {
+        "dependencies": {
+          "Microsoft.VisualBasic": "10.3.0",
+          "System.Diagnostics.PerformanceCounter": "9.0.5"
+        },
+        "runtime": {
+          "Metrics.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualBasic/10.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AvMDjmJHjz9bdlvxiSdEHHcWP+sZtp7zwule5ab6DaUbgoBnwCsd7nymj69vSz18ypXuEv3SI7ZUNwbIKrvtMA==",
+      "path": "microsoft.visualbasic/10.3.0",
+      "hashPath": "microsoft.visualbasic.10.3.0.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/9.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6JiI15x4eqlHptNG8HqFtQ1NmNTK1hNKuZGECY97deaVpca85XkITo8Me8uCTlKb01egRZGTFA9/kMjewwttPw==",
+      "path": "system.configuration.configurationmanager/9.0.5",
+      "hashPath": "system.configuration.configurationmanager.9.0.5.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/9.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nhtTvAgKTD7f6t0bkOb4/hNv0PShb8GHs5Fhn7PvYhwhyWiVyVBvL2vTGH0Hlw5jOZQmWkzQxjY6M/h4tl8M6Q==",
+      "path": "system.diagnostics.eventlog/9.0.5",
+      "hashPath": "system.diagnostics.eventlog.9.0.5.nupkg.sha512"
+    },
+    "System.Diagnostics.PerformanceCounter/9.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-anE9Ao3gEAhYr9yZdLZipJvT5fak+B/5gd7yK2vKuVwS3FIVI0sxctZ0foVfKMbA1cimOUsijAqn9FasKSTR6A==",
+      "path": "system.diagnostics.performancecounter/9.0.5",
+      "hashPath": "system.diagnostics.performancecounter.9.0.5.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/9.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tgS+q4zR08qX4ZA/HPtpNXU2i1EDRBNhNtbTGFdSgYyWcKf5mUtlihbzKcYqArisG1b3x4dk/FIOiWxnHrSENw==",
+      "path": "system.security.cryptography.protecteddata/9.0.5",
+      "hashPath": "system.security.cryptography.protecteddata.9.0.5.nupkg.sha512"
+    },
+    "Metrics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

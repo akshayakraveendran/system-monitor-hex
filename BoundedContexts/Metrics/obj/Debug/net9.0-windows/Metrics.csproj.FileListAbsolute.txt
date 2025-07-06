@@ -1,0 +1,12 @@
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\bin\Debug\net9.0-windows\Metrics.deps.json
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\bin\Debug\net9.0-windows\Metrics.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\bin\Debug\net9.0-windows\Metrics.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.csproj.AssemblyReference.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.AssemblyInfoInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.AssemblyInfo.cs
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.csproj.CoreCompileInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\refint\Metrics.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\ref\Metrics.dll

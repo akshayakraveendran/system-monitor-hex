@@ -1,0 +1,15 @@
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\bin\Debug\net9.0-windows\Shared.deps.json
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\bin\Debug\net9.0-windows\Shared.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\bin\Debug\net9.0-windows\Shared.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\bin\Debug\net9.0-windows\Metrics.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\bin\Debug\net9.0-windows\Metrics.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\Shared.csproj.AssemblyReference.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\Shared.AssemblyInfoInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\Shared.AssemblyInfo.cs
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\Shared.csproj.CoreCompileInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\Shared.csproj.Up2Date
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\Shared.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\refint\Shared.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\Shared.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Shared\obj\Debug\net9.0-windows\ref\Shared.dll

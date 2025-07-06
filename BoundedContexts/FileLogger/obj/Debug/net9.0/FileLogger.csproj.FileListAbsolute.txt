@@ -1,0 +1,11 @@
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0\FileLogger.deps.json
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0\FileLogger.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\bin\Debug\net9.0\FileLogger.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0\FileLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0\FileLogger.AssemblyInfoInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0\FileLogger.AssemblyInfo.cs
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0\FileLogger.csproj.CoreCompileInputs.cache
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0\FileLogger.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0\refint\FileLogger.dll
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0\FileLogger.pdb
+D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\FileLogger\obj\Debug\net9.0\ref\FileLogger.dll
