@@ -62,62 +62,33 @@ dotnet build
 dotnet run --project ConsoleApp
 ----
 
+# Create an API endpoint to listen to updates
+NOTE: I have used webhook.site for this
+- Go to https://webhook.site
+- Copy the temporary url
+- paste it in ConsoleApp/appsettings.json for ApiSender.Endpoint
+
+
 Configuration
 Edit ConsoleApp/appsettings.json:
 
-json
-Copy
-Edit
 {
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning",
+      "System.Net.Http.HttpClient": "None"
+    }
+  },
   "MonitorIntervalSeconds": 5,
   "ApiSender": {
-    "Endpoint": "https://your-api-endpoint.com/receive-metrics"
+    "Endpoint": "https://webhook.site/58460f43-3e81-4fb3-9488-3f16d6ef6d9d"
+  },
+  "FileLogger": {
+    "LogFilePath": "metrics_log.txt"
   }
 }
-Output
-Every 5 seconds:
 
-Metrics are printed to console
-
-Logged to metrics_log.txt
-
-Sent as JSON to API (if configured)
-
-Example payload:
-
-json
-Copy
-Edit
-{
-  "cpu": 40.12,
-  "usedRam": 5340.82,
-  "totalRam": 6086.82,
-  "usedDisk": 50000.0,
-  "totalDisk": 100000.0,
-  "timestamp": "2025-05-14T14:32:01Z"
-}
-🧠 Design Decisions
-Chose Hexagonal Architecture to isolate business logic and make plugins extendable without modifying core.
-
-Used plugin interface (IMonitorPlugin) to support scalable, open-ended integrations.
-
-Split each functional area into bounded contexts to keep code organized and testable.
-
-Used HttpClientFactory for testable and efficient HTTP handling in ApiSender.
-
-⚠️ Limitations
-Currently tested only on Windows due to use of PerformanceCounter and Microsoft.VisualBasic.Devices.
-
-Disk metrics are mocked (could be extended using platform APIs).
-
-No plugin hot-loading (plugins are statically registered at startup).
-
-📌 Possible Improvements
-Implement metrics readers for Linux/macOS using System.Diagnostics and /proc.
-
-Add UI with WinForms/WPF or web frontend.
-
-Add plugin auto-discovery using MEF or reflection.
-
-
-
+# Output
+- Logged to console
+- Logged to metrics_log.txt
+- Sent as JSON to API (if configured)
