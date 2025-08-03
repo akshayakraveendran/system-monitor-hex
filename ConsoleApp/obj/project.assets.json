@@ -719,6 +719,8 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Metrics": "1.0.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.5",
+          "Microsoft.Extensions.Configuration.Binder": "9.0.5",
           "Shared": "1.0.0"
         },
         "compile": {

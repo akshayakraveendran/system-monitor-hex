@@ -53,6 +53,7 @@ while (!cancellationToken.IsCancellationRequested)
     {
         await plugin.OnMetricsCollectedAsync(dto);
     }
+    Console.WriteLine("-------------------");
 
     await Task.Delay(TimeSpan.FromSeconds(5), cancellationToken.Token);
 }
