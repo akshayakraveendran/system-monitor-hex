@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ITU6aXnzaNo=",
+  "dgSpecHash": "7uIVivHh91Y=",
   "success": true,
-  "projectFilePath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj",
+  "projectFilePath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.5\\system.configuration.configurationmanager.9.0.5.nupkg.sha512",

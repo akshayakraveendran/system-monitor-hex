@@ -4,23 +4,23 @@ A cross-platform system monitor built with .NET, following clean and modular arc
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Real-time monitoring of:
+- Real-time monitoring of:
   - CPU usage (%)
   - RAM usage (used / total in MB)
   - Disk usage (used / total in MB)
-- ✅ Console output every few seconds (configurable)
-- ✅ Plugin architecture using `IMonitorPlugin`
-- ✅ Sample Plugins:
+- Console output every few seconds (configurable)
+- Plugin architecture using `IMonitorPlugin`
+- Sample Plugins:
   - `FileLoggerPlugin` – logs to a local file
   - `ApiSenderPlugin` – posts to an external REST API (configurable)
-- ✅ Configuration via `appsettings.json`
-- ✅ Clean Hexagonal Architecture with separate bounded contexts
+- Configuration via `appsettings.json`
+- Clean Hexagonal Architecture with separate bounded contexts
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 We used **Hexagonal Architecture (a.k.a. Ports & Adapters)**, with strong boundaries between:
 
@@ -41,7 +41,7 @@ All layers communicate using DTOs (e.g., `SystemMetricsDTO`) to enforce separati
 
 ---
 
-## 🧪 How to Build & Run
+## How to Build & Run
 
 ### Prerequisites
 
@@ -119,16 +119,5 @@ Add UI with WinForms/WPF or web frontend.
 
 Add plugin auto-discovery using MEF or reflection.
 
-📞 Contact
-Created by Akshaya K R as part of the Soroco desktop engineering challenge.
-Please reach out for a live demo or code walkthrough if needed.
 
-yaml
-Copy
-Edit
 
----
-
-Would you like this saved as a file (`README.md`) and placed in the root of your project?
-
-Sources

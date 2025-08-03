@@ -10,3 +10,16 @@ D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.
 D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\refint\Metrics.dll
 D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.pdb
 D:\Project\TestTaskManager\SystemMonitor\BoundedContexts\Metrics\obj\Debug\net9.0-windows\ref\Metrics.dll
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\bin\Debug\net9.0-windows\Metrics.deps.json
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\bin\Debug\net9.0-windows\Metrics.dll
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\bin\Debug\net9.0-windows\Metrics.pdb
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.csproj.AssemblyReference.cache
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.AssemblyInfoInputs.cache
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.AssemblyInfo.cs
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.csproj.CoreCompileInputs.cache
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.sourcelink.json
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.dll
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\refint\Metrics.dll
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\Metrics.pdb
+D:\Project\system-monitor-hex\BoundedContexts\Metrics\obj\Debug\net9.0-windows\ref\Metrics.dll
