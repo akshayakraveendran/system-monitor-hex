@@ -16,10 +16,10 @@ public class WindowsMetricsReader : ISystemMetricsReader
         float availableRam = _ramCounter.NextValue();
         float usedRam = totalRam - availableRam;
 
-        await Task.Delay(100); // Required for CPU counter to work properly
+        await Task.Delay(100); 
         float cpu = _cpuCounter.NextValue();
 
-        // Simulate disk info for now
+        
         return new SystemMetrics
         {
             CpuUsagePercent = cpu,
