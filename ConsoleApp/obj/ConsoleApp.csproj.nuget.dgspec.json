@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\TestTaskManager\\SystemMonitor\\ConsoleApp\\ConsoleApp.csproj": {}
+    "D:\\Project\\system-monitor-hex\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\ApiSender\\ApiSender.csproj": {
+    "D:\\Project\\system-monitor-hex\\BoundedContexts\\ApiSender\\ApiSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\ApiSender\\ApiSender.csproj",
+        "projectUniqueName": "D:\\Project\\system-monitor-hex\\BoundedContexts\\ApiSender\\ApiSender.csproj",
         "projectName": "ApiSender",
-        "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\ApiSender\\ApiSender.csproj",
+        "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\ApiSender\\ApiSender.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\ApiSender\\obj\\",
+        "outputPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\ApiSender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj"
               },
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\FileLogger\\FileLogger.csproj": {
+    "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\FileLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\FileLogger\\FileLogger.csproj",
+        "projectUniqueName": "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\FileLogger.csproj",
         "projectName": "FileLogger",
-        "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\FileLogger\\FileLogger.csproj",
+        "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\FileLogger.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\FileLogger\\obj\\",
+        "outputPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,11 +106,11 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj"
               },
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj": {
+    "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj",
+        "projectUniqueName": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj",
         "projectName": "Metrics",
-        "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj",
+        "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\obj\\",
+        "outputPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -224,14 +224,14 @@
         }
       }
     },
-    "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj": {
+    "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj",
+        "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\obj\\",
+        "outputPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -248,8 +248,8 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj"
               }
             }
           }
@@ -289,14 +289,14 @@
         }
       }
     },
-    "D:\\Project\\TestTaskManager\\SystemMonitor\\ConsoleApp\\ConsoleApp.csproj": {
+    "D:\\Project\\system-monitor-hex\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\TestTaskManager\\SystemMonitor\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "D:\\Project\\system-monitor-hex\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "D:\\Project\\system-monitor-hex\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\ConsoleApp\\obj\\",
+        "outputPath": "D:\\Project\\system-monitor-hex\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -313,17 +313,17 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\ApiSender\\ApiSender.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\ApiSender\\ApiSender.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\ApiSender\\ApiSender.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\ApiSender\\ApiSender.csproj"
               },
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\FileLogger\\FileLogger.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\FileLogger\\FileLogger.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\FileLogger.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\FileLogger\\FileLogger.csproj"
               },
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Metrics\\Metrics.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Metrics\\Metrics.csproj"
               },
-              "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\Shared\\Shared.csproj"
+              "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\Shared\\Shared.csproj"
               }
             }
           }

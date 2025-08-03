@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGoj3qWJJQE=",
+  "dgSpecHash": "XUEr3oqEh1g=",
   "success": true,
-  "projectFilePath": "D:\\Project\\TestTaskManager\\SystemMonitor\\BoundedContexts\\ApiSender\\ApiSender.csproj",
+  "projectFilePath": "D:\\Project\\system-monitor-hex\\BoundedContexts\\ApiSender\\ApiSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.5\\microsoft.extensions.configuration.binder.9.0.5.nupkg.sha512",
