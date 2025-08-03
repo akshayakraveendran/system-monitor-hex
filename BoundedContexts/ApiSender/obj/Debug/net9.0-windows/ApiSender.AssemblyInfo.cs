@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiSender")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41d3f9b5b7feaeda96686bd3725bec2d2d22a04c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bffacd1ddd7e0e4453632bfbdcacdd67d7e7c33")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiSender")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiSender")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
