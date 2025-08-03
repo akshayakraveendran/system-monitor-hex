@@ -35,7 +35,14 @@ public class ApiSenderPlugin : IMonitorPlugin
             "application/json"
         );
 
-        var response = await _httpClient.PostAsync(_endpointUrl, content);
-        response.EnsureSuccessStatusCode();
+        try
+        {
+            var response = await _httpClient.PostAsync(_endpointUrl, content);
+            response.EnsureSuccessStatusCode();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"[ApiSender] Endpoint error: {ex.Message}");
+        }
     }
 }

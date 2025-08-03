@@ -21,10 +21,29 @@ var builder = Host.CreateDefaultBuilder(args)
     })
     .ConfigureServices((context, services) =>
     {
-        services.AddSingleton<ISystemMetricsReader, WindowsMetricsReader>();
+        if (OperatingSystem.IsWindows())
+        {
+            Console.WriteLine("OS: Windows");
+            services.AddSingleton<ISystemMetricsReader, WindowsMetricsReader>();
+        }
+        else if (OperatingSystem.IsLinux())
+        {
+            Console.WriteLine("OS: Linux");
+            services.AddSingleton<ISystemMetricsReader, LinuxMetricsReader>();
+        }
+        else if (OperatingSystem.IsMacOS())
+        {
+            Console.WriteLine("OS: Mac");
+            services.AddSingleton<ISystemMetricsReader, MacMetricsReader>();
+        }
+        else
+        {
+            throw new Exception("Unsupported operating system");
+        }
+
         services.AddSingleton<MonitorService>();
         services.AddSingleton<IMonitorPlugin, FileLoggerPlugin>();
-        services.AddHttpClient<IMonitorPlugin, ApiSenderPlugin>();        
+        services.AddHttpClient<IMonitorPlugin, ApiSenderPlugin>();
     })
     .ConfigureLogging(logging =>
     {
@@ -46,15 +65,23 @@ Console.CancelKeyPress += (s, e) =>
 
 while (!cancellationToken.IsCancellationRequested)
 {
-    var dto = await monitor.GetMetricsAsync();
-    Console.WriteLine($"[{dto.Timestamp:T}] CPU: {dto.Cpu:F2}% | RAM: {dto.UsedRam}/{dto.TotalRam} MB | Disk: {dto.UsedDisk}/{dto.TotalDisk} MB");
-    var plugins = host.Services.GetServices<IMonitorPlugin>();
-    foreach (var plugin in plugins)
+    try
     {
-        await plugin.OnMetricsCollectedAsync(dto);
-    }
-    Console.WriteLine("-------------------");
+        var dto = await monitor.GetMetricsAsync();
+        Console.WriteLine($"[{dto.Timestamp:T}] CPU: {dto.Cpu:F2}% | RAM: {dto.UsedRam}/{dto.TotalRam} MB | Disk: {dto.UsedDisk}/{dto.TotalDisk} MB");
+        var plugins = host.Services.GetServices<IMonitorPlugin>();
+        foreach (var plugin in plugins)
+        {
+            await plugin.OnMetricsCollectedAsync(dto);
+        }
+        Console.WriteLine("-------------------");
 
-    await Task.Delay(TimeSpan.FromSeconds(5), cancellationToken.Token);
+        await Task.Delay(TimeSpan.FromSeconds(5), cancellationToken.Token);
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine(e.Message);
+    }
+
 }
 
